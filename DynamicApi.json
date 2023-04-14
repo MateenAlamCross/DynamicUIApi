@@ -52,7 +52,7 @@
             {
               "paymentType": "payments/diamond",
               "price": 3350,
-              "icon": "/clothing/dress 3"
+              "icon": "clothing/dress 3"
             },
             {
               "paymentType": "payments/coin",
