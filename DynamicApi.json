@@ -77,7 +77,7 @@
             {
               "paymentType": "payments/coin",
               "price": 3099,
-              "itemsImage": "clothing/dress 8"
+              "icon": "clothing/dress 8"
             },
             {
               "paymentType": "payments/coin",
@@ -275,7 +275,7 @@
             {
               "paymentType": "payments/coin",
               "price": 3099,
-              "itemsImage": "clothing/dress 8"
+              "icon": "clothing/dress 8"
             }
           ]
         },
@@ -653,4 +653,3 @@
     }
   ]
 }
-
