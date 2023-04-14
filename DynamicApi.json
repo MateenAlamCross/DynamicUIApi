@@ -40,34 +40,34 @@
           "height": 41,
           "items": [
             {
-              "paymentType": "/payments/coin",
+              "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "/clothing/dress1"
+              "icon": "clothing/dress1"
             },
             {
-              "paymentType": "/payments/coin",
+              "paymentType": "payments/coin",
               "price": 2399,
-              "icon": "/clothing/dress2"
+              "icon": "clothing/dress2"
             },
             {
-              "paymentType": "/payments/diamond",
+              "paymentType": "payments/diamond",
               "price": 3350,
               "icon": "/clothing/dress3"
             },
             {
-              "paymentType": "/payments/coin",
+              "paymentType": "payments/coin",
               "price": 2720,
-              "icon": "/clothing/dress4"
+              "icon": "clothing/dress4"
             },
             {
-              "paymentType": "/payments/coin",
+              "paymentType": "payments/coin",
               "price": 3050,
-              "icon": "/clothing/dress5"
+              "icon": "clothing/dress5"
             },
             {
-              "paymentType": "/payments/diamond",
+              "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "/clothing/dress6"
+              "icon": "clothing/dress6"
             },
             {
               "paymentType": "payments/coin",
