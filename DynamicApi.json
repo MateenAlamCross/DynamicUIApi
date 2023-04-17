@@ -35,7 +35,7 @@
       "subCategory": [
         {
           "subCategoryName": "all",
-          "subCategoryImage": "/images/all",
+          "subCategoryImage": "images/all",
           "width": 41,
           "height": 41,
           "items": [
