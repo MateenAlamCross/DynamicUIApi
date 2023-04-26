@@ -42,192 +42,192 @@
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 1"
             },
             {
               "paymentType": "payments/coin",
               "price": 2399,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 2"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3350,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 3"
             },
             {
               "paymentType": "payments/coin",
               "price": 2720,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 4"
             },
             {
               "paymentType": "payments/coin",
               "price": 3050,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 5"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "https://icons8.com/icon/cy0WzlUnunku/dress"
+              "icon": "clothing/dress 6"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "clothing/dress 7"
             },
             {
               "paymentType": "payments/coin",
               "price": 3099,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "clothing/dress 8"
             },
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 1"
             },
             {
               "paymentType": "payments/coin",
               "price": 2030,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 2"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 3"
             },
             {
               "paymentType": "payments/coin",
               "price": 2070,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 4"
             },
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 5"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 6"
             },
             {
               "paymentType": "payments/coin",
               "price": 2750,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 7"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3700,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/style 8"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3500,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 1"
             },
             {
               "paymentType": "payments/coin",
               "price": 2078,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 2"
             },
             {
               "paymentType": "payments/coin",
               "price": 1999,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 3"
             },
             {
               "paymentType": "payments/coin",
               "price": 2330,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 4"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 5"
             },
             {
               "paymentType": "payments/coin",
               "price": 3100,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 6"
             },
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 7"
             },
             {
               "paymentType": "payments/coin",
               "price": 2900,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 8"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 9"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/footwear 10"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 1"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 2"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 3"
             },
             {
               "paymentType": "payments/coin",
               "price": 2575,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 4"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 5"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4099,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "hair/glasses 6"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4299,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "jacket/jacket 1"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3100,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "jacket/jacket 2"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3599,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "shirt/shirt 1"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "shirt/shirt 2"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3499,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "shirt/shirt 3"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+              "icon": "shirt/shirt 4"
             }
           ]
         },
@@ -570,41 +570,41 @@
       "height": 41,
       "hasSubCategory": false,
       "subCategory": [
-            {
-              "paymentType": "payments/coin",
-              "price": 1500,
-              "icon": "shirt/shirt 1"
-            },
-            {
-              "paymentType": "payments/coin",
-              "price": 1800,
-              "icon": "shirt/shirt 2"
-            },
-            {
-              "paymentType": "payments/coin",
-              "price": 1999,
-              "icon": "shirt/shirt 3"
-            },
-            {
-              "paymentType": "payments/diamond",
-              "price": 2299,
-              "icon": "shirt/shirt 4"
-            },
-            {
-              "paymentType": "payments/diamond",
-              "price": 2499,
-              "icon": "shirt/shirt 5"
-            },
-            {
-              "paymentType": "payments/coin",
-              "price": 1499,
-              "icon": "shirt/shirt 6"
-            },
-            {
-              "paymentType": "payments/coin",
-              "price": 1799,
-              "icon": "shirt/shirt 7"
-            }
+        {
+          "paymentType": "payments/coin",
+          "price": 1500,
+          "icon": "shirt/shirt 1"
+        },
+        {
+          "paymentType": "payments/coin",
+          "price": 1800,
+          "icon": "shirt/shirt 2"
+        },
+        {
+          "paymentType": "payments/coin",
+          "price": 1999,
+          "icon": "shirt/shirt 3"
+        },
+        {
+          "paymentType": "payments/diamond",
+          "price": 2299,
+          "icon": "shirt/shirt 4"
+        },
+        {
+          "paymentType": "payments/diamond",
+          "price": 2499,
+          "icon": "shirt/shirt 5"
+        },
+        {
+          "paymentType": "payments/coin",
+          "price": 1499,
+          "icon": "shirt/shirt 6"
+        },
+        {
+          "paymentType": "payments/coin",
+          "price": 1799,
+          "icon": "shirt/shirt 7"
+        }
       ]
     },
     {
@@ -613,33 +613,33 @@
       "width": 41,
       "height": 41,
       "hasSubCategory": false,
-      "subCategory": [ 
+      "subCategory": [
 
-            {
-              "paymentType": "payments/coin",
-              "price": 3099,
-              "icon": "jacket/jacket 1"
-            },
-            {
-              "paymentType": "payments/diamond",
-              "price": 3599,
-              "icon": "jacket/jacket 2"
-            },
-            {
-              "paymentType": "payments/diamond",
-              "price": 3899,
-              "icon": "jacket/jacket 3"
-            },
-            {
-              "paymentType": "payments/diamond",
-              "price": 4099,
-              "icon": "jacket/jacket 4"
-            },
-            {
-              "paymentType": "payments/coin",
-              "price": 2800,
-              "icon": "jacket/jacket 5"
-            }
+        {
+          "paymentType": "payments/coin",
+          "price": 3099,
+          "icon": "jacket/jacket 1"
+        },
+        {
+          "paymentType": "payments/diamond",
+          "price": 3599,
+          "icon": "jacket/jacket 2"
+        },
+        {
+          "paymentType": "payments/diamond",
+          "price": 3899,
+          "icon": "jacket/jacket 3"
+        },
+        {
+          "paymentType": "payments/diamond",
+          "price": 4099,
+          "icon": "jacket/jacket 4"
+        },
+        {
+          "paymentType": "payments/coin",
+          "price": 2800,
+          "icon": "jacket/jacket 5"
+        }
       ]
     }
   ]
