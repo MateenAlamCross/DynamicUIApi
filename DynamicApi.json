@@ -42,192 +42,192 @@
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "clothing/dress 1"
+              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2399,
-              "icon": "clothing/dress 2"
+              "icon": "https://img.icons8.com/color/48/null/green-dress.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3350,
-              "icon": "clothing/dress 3"
+              "icon": "https://img.icons8.com/doodle/48/null/modelled-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2720,
-              "icon": "clothing/dress 4"
+              "icon": "https://img.icons8.com/color/48/null/long-formal-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3050,
-              "icon": "clothing/dress 5"
+              "icon": "https://img.icons8.com/parakeet/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "clothing/dress 6"
+              "icon": "https://img.icons8.com/color/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "clothing/dress 7"
+              "icon": "https://img.icons8.com/color-glass/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3099,
-              "icon": "clothing/dress 8"
+              "icon": "https://img.icons8.com/stickers/100/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "hair/style 1"
+              "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-Hairstyle-hair-flat-icons-inmotus-design-34.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2030,
-              "icon": "hair/style 2"
+              "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-Hairstyle-hair-flat-icons-inmotus-design-35.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "hair/style 3"
+              "icon": "https://img.icons8.com/arcade/64/null/womans-hair.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2070,
-              "icon": "hair/style 4"
+              "icon": "https://img.icons8.com/stickers/100/null/womans-hair.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "hair/style 5"
+              "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-Hairstyle-hair-flat-icons-inmotus-design-34.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "hair/style 6"
+              "icon": "https://img.icons8.com/external-others-inmotus-design/67/null/external-Hairstyle-avatars-others-inmotus-design.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2750,
-              "icon": "hair/style 7"
+              "icon": "https://img.icons8.com/external-others-pike-picture/50/null/external-Hairstyle-makeup-others-pike-picture.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3700,
-              "icon": "hair/style 8"
+              "icon": "https://img.icons8.com/stickers/100/null/womans-hair.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3500,
-              "icon": "hair/footwear 1"
+              "icon": "https://img.icons8.com/external-others-iconmarket/64/null/external-footwear-mothers-day-others-iconmarket-2.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2078,
-              "icon": "hair/footwear 2"
+              "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Footwear-theater-smashingstocks-flat-smashing-stocks.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 1999,
-              "icon": "hair/footwear 3"
+              "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Footwear-theater-smashingstocks-flat-smashing-stocks.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2330,
-              "icon": "hair/footwear 4"
+              "icon": "https://img.icons8.com/arcade/64/null/mens-shoe.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "hair/footwear 5"
+              "icon": "https://img.icons8.com/external-linector-lineal-color-linector/64/null/external-footwear-travel-packing-linector-lineal-color-linector.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3100,
-              "icon": "hair/footwear 6"
+              "icon": "https://img.icons8.com/external-others-iconmarket/64/null/external-footwear-mothers-day-others-iconmarket-2.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "hair/footwear 7"
+              "icon": "https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/null/external-footwear-hotel-creatype-filed-outline-colourcreatype.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2900,
-              "icon": "hair/footwear 8"
+              "icon": "https://img.icons8.com/arcade/64/null/trainers.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "hair/footwear 9"
+              "icon": "https://img.icons8.com/color/48/null/mens-shoe.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "hair/footwear 10"
+              "icon": "https://img.icons8.com/arcade/64/null/mens-shoe.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 1"
+              "icon": "https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/null/external-glasses-love-party-phatplus-lineal-color-phatplus.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 2"
+              "icon": "https://img.icons8.com/stickers/100/null/google-glass.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 3"
+              "icon": "https://img.icons8.com/plasticine/100/null/vintage-glasses.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2575,
-              "icon": "hair/glasses 4"
+              "icon": "https://img.icons8.com/arcade/64/null/vintage-glasses.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "hair/glasses 5"
+              "icon": "https://img.icons8.com/stickers/100/null/vintage-glasses.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4099,
-              "icon": "hair/glasses 6"
+              "icon": "https://img.icons8.com/officel/16/null/sun-glasses.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4299,
-              "icon": "jacket/jacket 1"
+              "icon": "https://img.icons8.com/parakeet/48/null/jacket.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3100,
-              "icon": "jacket/jacket 2"
+              "icon": "https://img.icons8.com/color/48/null/puffer-jacket.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3599,
-              "icon": "shirt/shirt 1"
+              "icon": "https://img.icons8.com/stickers/100/null/womens-shirt.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "shirt/shirt 2"
+              "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/null/external-shirt-autumn-clothes-justicon-flat-justicon-1.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3499,
-              "icon": "shirt/shirt 3"
+              "icon": "https://img.icons8.com/arcade/64/null/shirt.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "shirt/shirt 4"
+              "icon": "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-shirt-tropical-icongeek26-outline-colour-icongeek26.png"
             }
           ]
         },
@@ -240,42 +240,42 @@
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "clothing/dress 1"
+              "icon": "https://img.icons8.com/color-glass/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2399,
-              "icon": "clothing/dress 2"
+              "icon": "https://img.icons8.com/stickers/100/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3350,
-              "icon": "clothing/dress 3"
+              "icon": "https://img.icons8.com/emoji/48/null/dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2720,
-              "icon": "clothing/dress 4"
+              "icon": "https://img.icons8.com/color/48/null/green-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3050,
-              "icon": "clothing/dress 5"
+              "icon": "https://img.icons8.com/parakeet/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "clothing/dress 6"
+              "icon": "https://img.icons8.com/color-glass/48/null/wedding-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "clothing/dress 7"
+              "icon": "https://img.icons8.com/color-glass/48/null/long-formal-dress.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3099,
-              "icon": "clothing/dress 8"
+              "icon": "https://img.icons8.com/arcade/64/null/wedding-dress.png"
             }
           ]
         },
@@ -288,42 +288,42 @@
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "hair/style 1"
+              "icon": "https://img.icons8.com/external-others-pike-picture/50/null/external-Hairstyle-makeup-others-pike-picture.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2030,
-              "icon": "hair/style 2"
+              "icon": "https://img.icons8.com/external-others-pike-picture/50/null/external-Hairstyle-makeup-others-pike-picture.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "hair/style 3"
+              "icon": "https://img.icons8.com/stickers/100/null/womans-hair.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2070,
-              "icon": "hair/style 4"
+              "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-Hairstyle-hair-flat-icons-inmotus-design-34.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2199,
-              "icon": "hair/style 5"
+              "icon": "https://img.icons8.com/arcade/64/null/womans-hair.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2899,
-              "icon": "hair/style 6"
+              "icon": "https://img.icons8.com/arcade/64/null/womans-hair.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2750,
-              "icon": "hair/style 7"
+              "icon": "https://img.icons8.com/external-others-inmotus-design/67/null/external-Hairstyle-avatars-others-inmotus-design.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3700,
-              "icon": "hair/style 8"
+              "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-Hairstyle-hair-flat-icons-inmotus-design-35.pn"
             }
           ]
         },
@@ -336,52 +336,52 @@
             {
               "paymentType": "payments/diamond",
               "price": 3500,
-              "icon": "hair/footwear 1"
+              "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Footwear-theater-smashingstocks-flat-smashing-stocks.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2078,
-              "icon": "hair/footwear 2"
+              "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Footwear-theater-smashingstocks-flat-smashing-stocks.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 1999,
-              "icon": "hair/footwear 3"
+              "icon": "https://img.icons8.com/external-linector-lineal-color-linector/64/null/external-footwear-travel-packing-linector-lineal-color-linector.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2330,
-              "icon": "hair/footwear 4"
+              "icon": "https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/null/external-footwear-hotel-creatype-filed-outline-colourcreatype.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "hair/footwear 5"
+              "icon": "https://img.icons8.com/arcade/64/null/trainers.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 3100,
-              "icon": "hair/footwear 6"
+              "icon": "https://img.icons8.com/color/48/null/mens-shoe.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2299,
-              "icon": "hair/footwear 7"
+              "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-Footwear-theater-smashingstocks-flat-smashing-stocks.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2900,
-              "icon": "hair/footwear 8"
+              "icon": "https://img.icons8.com/arcade/64/null/trainers.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "hair/footwear 9"
+              "icon": "https://img.icons8.com/external-others-iconmarket/64/null/external-footwear-mothers-day-others-iconmarket-2.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3399,
-              "icon": "hair/footwear 10"
+              "icon": "https://img.icons8.com/arcade/64/null/mens-shoe.png"
             }
           ]
         },
@@ -394,63 +394,61 @@
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 1"
+               "icon": "https://img.icons8.com/plasticine/100/null/vintage-glasses.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 2"
+              "icon": "https://img.icons8.com/ios-filled/50/null/google-glass.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2099,
-              "icon": "hair/glasses 3"
+              "icon": "https://img.icons8.com/avantgarde/100/null/glasses.png"
             },
             {
               "paymentType": "payments/coin",
               "price": 2575,
-              "icon": "hair/glasses 4"
+          "icon": "https://img.icons8.com/color/48/null/sun-glasses.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3799,
-              "icon": "hair/glasses 5"
+              "icon": "https://img.icons8.com/stickers/100/null/google-glass.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4099,
-              "icon": "hair/glasses 6"
+              "icon": "https://img.icons8.com/arcade/64/null/vintage-glasses.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 4299,
-              "icon": "jacket/jacket 1"
+               "icon": "https://img.icons8.com/color/48/null/puffer-jacket.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3100,
-              "icon": "jacket/jacket 2"
+              "icon": "https://img.icons8.com/stickers/100/null/puffer-jacket.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3599,
-              "icon": "shirt/shirt 1"
+             "icon": "https://img.icons8.com/parakeet/48/null/shirt.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 2999,
-              "icon": "shirt/shirt 2"
-            },
+              "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/null/external-shirt-autumn-clothes-justicon-flat-justicon-1.png"            },
             {
               "paymentType": "payments/diamond",
               "price": 3499,
-              "icon": "shirt/shirt 3"
+              "icon": "https://img.icons8.com/stickers/100/null/womens-shirt.png"
             },
             {
               "paymentType": "payments/diamond",
               "price": 3999,
-              "icon": "shirt/shirt 4"
-            }
+              "icon": "https://img.icons8.com/arcade/64/null/shirt.png"            }
           ]
         }
       ]
@@ -465,57 +463,57 @@
         {
           "paymentType": "payments/diamond",
           "price": 3799,
-          "icon": "coat/coat 1"
+          "icon": "https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/null/external-coat-camping-icongeek26-linear-colour-icongeek26.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3999,
-          "icon": "coat/coat 2"
+          "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/null/external-coat-autumn-clothes-justicon-flat-justicon.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3099,
-          "icon": "glasses/glasses 1"
+          "icon": "https://img.icons8.com/ios-filled/50/null/google-glass.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3500,
-          "icon": "glasses/glasses 2"
+          "icon": "https://img.icons8.com/color/48/null/sun-glasses.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3899,
-          "icon": "glasses/glasses 3"
+          "icon": "https://img.icons8.com/avantgarde/100/null/glasses.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 2999,
-          "icon": "glasses/glasses 4"
+          "icon": "https://img.icons8.com/office/16/null/protective-glasses.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4299,
-          "icon": "jacket/jacket 1"
+          "icon": "https://img.icons8.com/color/48/null/jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4099,
-          "icon": "jacket/jacket 2"
+          "icon": "https://img.icons8.com/color/48/null/puffer-jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3599,
-          "icon": "shirt/shirt 1"
+          "icon": "https://img.icons8.com/stickers/100/null/womens-shirt.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3150,
-          "icon": "shirt/shirt 2"
+          "icon": "https://img.icons8.com/stickers/100/null/jeans-jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3750,
-          "icon": "shirt/shirt 3"
+          "icon": "https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/null/external-shirt-travel-checklist-photo3ideastudio-flat-photo3ideastudio.png"
         }
       ]
     },
@@ -529,37 +527,37 @@
         {
           "paymentType": "payments/diamond",
           "price": 2400,
-          "icon": "coat/coat 1"
+          "icon": "https://img.icons8.com/external-icongeek26-flat-icongeek26/64/null/external-coat-camping-icongeek26-flat-icongeek26.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 2999,
-          "icon": "coat/coat 2"
+          "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/null/external-coat-autumn-clothes-justicon-flat-justicon-3.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 2800,
-          "icon": "coat/coat 3"
+          "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/null/external-coat-autumn-clothes-justicon-lineal-color-justicon-3.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3000,
-          "icon": "coat/coat 4"
+          "icon": "https://img.icons8.com/arcade/64/null/coat.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3699,
-          "icon": "coat/coat 5"
+          "icon": "https://img.icons8.com/stickers/100/null/coat.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4099,
-          "icon": "coat/coat 6"
+          "icon": "https://img.icons8.com/plasticine/100/null/suit.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3099,
-          "icon": "coat/coat 7"
+          "icon": "https://img.icons8.com/plasticine/100/null/coat.png"
         }
       ]
     },
@@ -573,32 +571,32 @@
         {
           "paymentType": "payments/coin",
           "price": 1500,
-          "icon": "shirt/shirt 1"
+          "icon": "https://img.icons8.com/stickers/100/null/womens-shirt.png"
         },
         {
           "paymentType": "payments/coin",
           "price": 1800,
-          "icon": "shirt/shirt 2"
+          "icon": "https://img.icons8.com/parakeet/48/null/shirt.png"
         },
         {
           "paymentType": "payments/coin",
           "price": 1999,
-          "icon": "shirt/shirt 3"
+          "icon": "https://img.icons8.com/arcade/64/null/shirt.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 2299,
-          "icon": "shirt/shirt 4"
+          "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/null/external-shirt-autumn-clothes-justicon-flat-justicon-1.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 2499,
-          "icon": "shirt/shirt 5"
+          "icon": "https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/null/external-shirt-chinese-new-year-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png"
         },
         {
           "paymentType": "payments/coin",
           "price": 1499,
-          "icon": "shirt/shirt 6"
+          "icon": "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-shirt-tropical-icongeek26-outline-colour-icongeek26.png"
         },
         {
           "paymentType": "payments/coin",
@@ -618,27 +616,27 @@
         {
           "paymentType": "payments/coin",
           "price": 3099,
-          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+          "icon": "https://img.icons8.com/color/48/null/puffer-jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3599,
-          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+          "icon": "https://img.icons8.com/stickers/100/null/puffer-jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3899,
-          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+          "icon": "https://img.icons8.com/stickers/100/null/jacket.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4099,
-          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+          "icon": "https://img.icons8.com/parakeet/48/null/jacket.png"
         },
         {
           "paymentType": "payments/coin",
           "price": 2800,
-          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
+          "icon": "https://img.icons8.com/color/48/null/jacket.png"
         }
       ]
     }
