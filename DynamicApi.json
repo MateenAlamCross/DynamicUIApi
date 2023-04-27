@@ -618,27 +618,27 @@
         {
           "paymentType": "payments/coin",
           "price": 3099,
-          "icon": "jacket/jacket 1"
+          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3599,
-          "icon": "jacket/jacket 2"
+          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3899,
-          "icon": "jacket/jacket 3"
+          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4099,
-          "icon": "jacket/jacket 4"
+          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
         },
         {
           "paymentType": "payments/coin",
           "price": 2800,
-          "icon": "jacket/jacket 5"
+          "icon": "https://img.icons8.com/emoji/48/null/dress.png"
         }
       ]
     }
