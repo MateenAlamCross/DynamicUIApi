@@ -601,7 +601,7 @@
         {
           "paymentType": "payments/coin",
           "price": 1799,
-          "icon": "shirt/shirt 7"
+          "icon": "https://img.icons8.com/cotton/64/null/forester-shirt.png"
         }
       ]
     },
