@@ -617,27 +617,27 @@
         {
           "paymentType": "payments/coin",
           "price": 3099,
-          "icon": "https://img.icons8.com/color/48/null/puffer-jacket.png"
+          "icon": "https://icons8.com/icon/65463/forester-shirt"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3599,
-          "icon": "https://img.icons8.com/stickers/100/null/puffer-jacket.png"
+          "icon": "https://icons8.com/icon/65463/forester-shirt"
         },
         {
           "paymentType": "payments/diamond",
           "price": 3899,
-          "icon": "https://img.icons8.com/stickers/100/null/jacket.png"
+          "icon": "https://icons8.com/icon/65463/forester-shirt"
         },
         {
           "paymentType": "payments/diamond",
           "price": 4099,
-          "icon": "https://img.icons8.com/parakeet/48/null/jacket.png"
+          "icon": "https://icons8.com/icon/65463/forester-shirt"
         },
         {
           "paymentType": "payments/coin",
           "price": 2800,
-          "icon": "https://img.icons8.com/color/48/null/jacket.png"
+          "icon": "https://icons8.com/icon/65463/forester-shirt"
         }
       ]
     }
