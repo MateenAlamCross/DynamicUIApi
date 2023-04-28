@@ -5,11 +5,10 @@
       "mainCategoryImage": "images/My",
       "width": 41,
       "height": 41,
-      "hasSubCategory": true,
+      "hasSubCategory": false,
       "subCategory": [
         {
-          "subCategory": "all",
-          "items": []
+         
         }
       ]
     },
@@ -18,11 +17,10 @@
       "mainCategoryImage": "images/favourites",
       "width": 41,
       "height": 41,
-      "hasSubCategory": true,
+      "hasSubCategory": false,
       "subCategory": [
         {
-          "subCategory": "all",
-          "items": []
+          
         }
       ]
     },
